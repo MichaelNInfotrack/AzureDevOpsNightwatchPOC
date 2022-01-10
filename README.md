@@ -16,5 +16,5 @@
 
 ## Running the tests
 - There are 2 ways of running the test
- 1st - Navigate to the package.json file and right click test-Login Feature, then click run scripts. 
- 2nd - Open the terminal, run npm run test  
+ - 1st - Navigate to the package.json file and right click test-Login Feature, then click run scripts. 
+ - 2nd - Open the terminal, run npm run test  
